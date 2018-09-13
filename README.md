@@ -1,4 +1,4 @@
-This is a upgrade repository, for Yooga Tecnologia.
+This is an upgrade repository, for Yooga Tecnologia.
 
 For more info http://www.yooga.com.br
 
